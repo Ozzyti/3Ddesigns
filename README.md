@@ -18,7 +18,7 @@ Source: [designs/aquarium_light_holder](designs/aquarium_light_holder)
 
 A snap fit case for a USB drive.
 
-Source: [designs/usb_drive_case](designs/usb_drive_case)
+Printable file: [usb_drive_case_v1_1.stl](designs/usb_drive_case/usb_drive_case_v1_1.stl)
 
 ### Parametric lattice basket
 ![Parametric lattice basket](images/basket.png)
