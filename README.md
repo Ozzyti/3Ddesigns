@@ -15,7 +15,7 @@ Pictures of parametric parts designed in OpenSCAD and printed on a Bambu P1S. Po
 
 ## Game
 
-[Play The Freeze Frame](https://ozzyti.github.io/Portfolio/game/) in your browser. Keyboard and mouse, best with headphones.
+The Freeze Frame, a playable build is coming soon.
 
 ## Custom parts
 
