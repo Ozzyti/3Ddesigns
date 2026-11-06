@@ -1,32 +1,22 @@
 # 3D Designs
 
-Parametric parts written in OpenSCAD and printed on FDM machines. Each design is code, so changing one number rebuilds the whole part.
+Pictures of parametric parts designed in OpenSCAD and printed on a Bambu P1S. Portfolio: https://ozzyti.github.io/Portfolio/
 
-Portfolio site: [ozzyti.github.io/Portfolio](https://ozzyti.github.io/Portfolio/)
+| | |
+|---|---|
+| ![Parametric lattice basket](images/basket.jpg) | ![Strong corner bracket](images/corner_bracket.jpg) |
+| Parametric lattice basket | Strong corner bracket |
+| ![USB drive case](images/usb_case.jpg) | ![Aquarium light holder](images/aquarium_light_holder.png) |
+| USB drive case | Aquarium light holder (client work) |
+| ![42 Don't Panic sculpture](images/dont_panic.jpg) | ![Gyro forearm brace](images/gyro_brace.jpg) |
+| 42 Don't Panic sculpture | Gyro forearm brace |
+| ![Truck laptop mount](images/truck_mount.jpg) | ![Playing cards](images/playing_cards.jpg) |
+| Truck laptop mount | Playing cards |
 
-## Designs
+## Game
 
-### Aquarium light holder
-![Aquarium light holder](images/aquarium_light_holder.png)
+[Play The Freeze Frame](https://ozzyti.github.io/Portfolio/game/) in your browser. Keyboard and mouse, best with headphones.
 
-Client work. Version 5 was tested until a whole rail tore off along a layer line. From version 6 on, four hidden M4 threaded rods run through the cross members, so steel carries the load and the nuts squeeze the layers together.
+## Custom parts
 
-### USB drive case
-![USB drive case](images/usb_drive_case.png)
-
-A snap fit case for a USB drive.
-
-Printable file: [usb_drive_case_v1_1.stl](designs/usb_drive_case/usb_drive_case_v1_1.stl)
-
-### Parametric lattice basket
-![Parametric lattice basket](images/basket.png)
-
-Every strand's lean is capped at 45 degrees, the walls are matched to the printer's line width in code, and the basket is reinforced with 12 ribs, 5 hoop rings and a woven floor.
-
-## Tools
-
-OpenSCAD, Bambu Studio, FlashPrint. Printed in PLA+, PETG and TPU.
-
-## Contact
-
-baelyn.k.blackmore112895@outlook.com
+Need a part designed? baelyn.k.blackmore112895@outlook.com
