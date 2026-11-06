@@ -13,6 +13,10 @@ Pictures of parametric parts designed in OpenSCAD and printed on a Bambu P1S. Po
 | ![Truck laptop mount](images/truck_mount.jpg) | ![Playing cards](images/playing_cards.jpg) |
 | Truck laptop mount | Playing cards |
 
+## Game
+
+[Play The Freeze Frame beta](https://ozzyti.github.io/Portfolio/game/) in your browser. A larger version is coming soon.
+
 ## Custom parts
 
 Need a part designed? baelyn.k.blackmore112895@outlook.com
