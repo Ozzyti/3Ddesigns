@@ -10,8 +10,8 @@ Pictures of parametric parts designed in OpenSCAD and printed on a Bambu P1S. Po
 | USB drive case | Aquarium light holder (client work) |
 | ![42 Don't Panic sculpture](images/dont_panic.jpg) | ![Gyro forearm brace](images/gyro_brace.jpg) |
 | 42 Don't Panic sculpture | Gyro forearm brace |
-| ![Truck laptop mount](images/truck_mount.jpg) | ![Playing cards](images/playing_cards.jpg) |
-| Truck laptop mount | Playing cards |
+| ![Truck laptop mount](images/truck_mount.jpg) | |
+| Truck laptop mount | |
 
 ## Game
 
