@@ -19,4 +19,5 @@ Pictures of parametric parts designed in OpenSCAD and printed on a Bambu P1S. Po
 
 ## Custom parts
 
-Need a part designed? baelyn.k.blackmore112895@outlook.com
+Need a part designed? baelyn.k.blackmore112895@outlook.com  
+Phone: (774) 666-1450
